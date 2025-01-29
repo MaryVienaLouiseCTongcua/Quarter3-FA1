@@ -1,1 +1,1 @@
-# Quarter3-FA1
+-  This is an activity where we used our insights and understandings from the LG'S read to perform our first FA1 in computer science. This is first time where I applied how to code for a JAVA file with a mix of my knowledge in HTML.
